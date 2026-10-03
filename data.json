@@ -1,0 +1,51 @@
+{
+  "users": {
+    "HOSTEL-01": {
+      "name": "Achintya Singh",
+      "passcode": "1234",
+      "credits": 4,
+      "phone": "+919573500791",
+      "joined": "2026-10-03"
+    },
+    "HOSTEL-02": {
+      "name": "Puran",
+      "passcode": "2345",
+      "credits": 4,
+      "phone": "",
+      "joined": "2026-10-03"
+    },
+    "HOSTEL-03": {
+      "name": "Rahul Verma",
+      "passcode": "3456",
+      "credits": 4,
+      "phone": "",
+      "joined": "2026-10-03"
+    },
+    "HOSTEL-04": {
+      "name": "Priya Sharma",
+      "passcode": "4567",
+      "credits": 4,
+      "phone": "",
+      "joined": "2026-10-03"
+    },
+    "HOSTEL-05": {
+      "name": "Karan Mehta",
+      "passcode": "5678",
+      "credits": 4,
+      "phone": "",
+      "joined": "2026-10-03"
+    }
+  },
+  "bookings": [],
+  "warden_log": [
+    {
+      "ts": "2026-10-03 19:22:50",
+      "event": "CANCELLATION",
+      "uid": "HOSTEL-01",
+      "name": "Achintya Singh",
+      "resource": "🏓 Table Tennis Racket #1",
+      "slot": "08:00 PM – 09:00 PM",
+      "note": "Slot released voluntarily. 1 credit refunded. (ref BK-20261003184014-HOSTEL-01)"
+    }
+  ]
+}
